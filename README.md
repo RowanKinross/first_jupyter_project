@@ -1,3 +1,2 @@
 # First Jupyter Project
-## Testing the repo
-First markdown file in this repo
+## Go to notebooks_Data_Sci_Assignments_DataScienceEcosystem to see my assignment
